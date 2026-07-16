@@ -1,0 +1,57 @@
+.container{
+
+    display:flex;
+
+    justify-content:center;
+
+    margin-top:80px;
+
+}
+
+.box{
+
+    width:300px;
+
+    padding:20px;
+
+    border-right:5px solid green;
+
+    margin-right:30px;
+
+}
+
+.box:last-child{
+
+    border-right:none;
+
+}
+
+body{
+
+    font-family:Arial, Helvetica, sans-serif;
+
+}
+
+h1{
+
+    font-size:22px;
+
+}
+
+h2{
+
+    margin-top:20px;
+
+}
+
+h3{
+
+    font-size:18px;
+
+}
+
+h4{
+
+    margin-bottom:5px;
+
+}
